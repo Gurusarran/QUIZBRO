@@ -1,1 +1,1 @@
-# QUIZBRO
+# MyQuiz
